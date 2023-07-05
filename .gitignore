@@ -8,7 +8,7 @@
 # testing
 /coverage
 /go-equips/.env
-
+/go-equips/node_modules
 # production
 /build
 
